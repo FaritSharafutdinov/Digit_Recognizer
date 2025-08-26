@@ -16,7 +16,7 @@ A project for the Human-AI Interaction Design course. Recognizes handwritten num
 
     ```bash
     git clone https://github.com/FaritSharafutdinov/Digit_Recognizer
-    cd haiid-digit-recognizer
+    cd Digit_Recognizer
     ```
 
 2. Install the dependencies:
