@@ -38,8 +38,8 @@ A project for the Human-AI Interaction Design course. Recognizes handwritten num
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/bluvvis/haiid-digit-recognizer.git
-    cd haiid-digit-recognizer
+    git clone https://github.com/FaritSharafutdinov/Digit_Recognizer
+    cd Digit_Recognizer
     ```
 
 2. Install the dependencies:
